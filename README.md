@@ -5,4 +5,4 @@
 2. Identify the requirements that need to be delivered for the project.
 3. Identify the tasks that I should focus on as a Data Analyst.
 4. Perform exploratory data analysis to understand the key performance indicators(KPI), trend patterns, key relationships between features etc
-5. Prepare detailed Power BI reports and PDF documents that contain important KPIs and meaning insights through graphical representations.
+5. Prepare detailed Power BI reports that contain important KPIs and meaning insights through graphical representations.
