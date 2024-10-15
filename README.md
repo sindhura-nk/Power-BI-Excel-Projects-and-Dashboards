@@ -1,5 +1,7 @@
 # Data-Analysis-Projects
 
+A collection of data analysis and visualization projects designed to uncover insights from diverse datasets
+
 ### Steps followed for every Project:
 1. Understand the client and business problem at hand.
 2. Identify the requirements that need to be delivered for the project.
